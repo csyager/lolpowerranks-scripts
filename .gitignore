@@ -1,0 +1,7 @@
+*.json
+env/
+esports-data/
+games/
+mapping.html
+
+.DS_STORE
